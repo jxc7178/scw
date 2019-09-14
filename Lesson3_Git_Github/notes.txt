@@ -1,0 +1,5 @@
+
+My notes about git:
+1. git init
+2. git add -all
+3.git commit -m "added git commands"
